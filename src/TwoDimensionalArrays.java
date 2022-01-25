@@ -1,3 +1,5 @@
+package src;
+
 public class TwoDimensionalArrays {
   public static void main(String[] args) {
     int[][] array2D = { { 11, 222, 333 }, { 22, 354, 66 } };

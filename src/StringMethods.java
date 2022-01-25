@@ -1,3 +1,5 @@
+package src;
+
 public class StringMethods {
    public static void main(String[] args) {
       String name = "REVANTH";
