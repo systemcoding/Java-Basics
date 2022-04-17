@@ -1,6 +1,6 @@
 # Java-YT series code
 
-This repo has all the files and folders from the java series in youtube. All the code is free to use.
+Java Code from my youtube series. 
 
 ## How to clone this repo and use it
 
