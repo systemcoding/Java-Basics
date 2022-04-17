@@ -4,8 +4,10 @@ This repo has all the files and folders from the java series in youtube. All the
 
 ## How to clone this repo and use it
 
-`git clone https://github.com/systemcoding/Java-Basics`\
-`cd Java-Basics`
+```
+git clone https://github.com/systemcoding/Java-Basics
+cd Java-Basics
+```
 
 ### To run the project:
 
